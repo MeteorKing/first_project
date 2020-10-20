@@ -1,6 +1,9 @@
 i 
 
-wo buhao 
+wo buhao
+nihaoma 
+
+
 xin de yihagn
 
 zaijia
